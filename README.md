@@ -30,3 +30,6 @@ Go to folder of the seminar with activate virtual environment, and read commenta
 Generally you have to be in the root directory ``` ./cv_sems_DSBA ``` and use ``` python3 |path-to-.py file| ``` 
 
 Example ```python seminars/first_seminar_14.01.25/CV_seminar1.py ```
+
+
+# :yellow_heart: :yellow_heart: **STAR THIS REPO** :yellow_heart: :yellow_heart:

@@ -303,5 +303,5 @@ if __name__ == '__main__':
     # histogram_pillow(path_to_photo, saving_path)
 
     # # 10th task
-    convert_opencv_to_pillow(path_to_photo, saving_path)
-    convert_pillow_to_opencv(path_to_photo, saving_path)
+    # convert_opencv_to_pillow(path_to_photo, saving_path)
+    # convert_pillow_to_opencv(path_to_photo, saving_path)
